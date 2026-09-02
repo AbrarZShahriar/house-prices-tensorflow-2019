@@ -14,8 +14,9 @@ graph-and-session API.
 
 The final model used two hidden layers with 500 and 300 neurons, batch
 normalization, ReLU activations, and dropout with a keep probability of 0.8.
-The report records a Kaggle score of `0.11694` and rank 685, which was within
-the top 15.6% at the time of submission.
+The notebook records a submission date of May 30, 2019. The final TensorFlow
+model achieved a Kaggle score of `0.11694` and rank 685, which was within the
+top 15.6% at the time of submission.
 
 ## Contents
 
